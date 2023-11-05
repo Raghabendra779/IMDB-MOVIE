@@ -7,7 +7,7 @@
 I hosted this on Github. Check the below link...
 
 
-git hosted Live Link :- https://rajeevkrs.github.io/IMDB-Clone/
+git hosted Live Link :- 
 
 
 ## Folder Structure:-<br/>
