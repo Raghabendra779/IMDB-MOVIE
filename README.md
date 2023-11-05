@@ -7,7 +7,7 @@
 I hosted this on Github. Check the below link...
 
 
-git hosted Live Link :- 
+git hosted Live Link :- https://raghabendradash.github.io/IMDB-MOVIE/ 
 
 
 ## Folder Structure:-<br/>
