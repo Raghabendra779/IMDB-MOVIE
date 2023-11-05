@@ -111,4 +111,4 @@ Keep in mind that this is a general guide, and you can add more features or impr
 
 If you like my project, make sure to give a star to my repository !!
 
-                            <!--- THANK YOU --->
+                            <!-- THANK YOU -->
